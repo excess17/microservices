@@ -1,0 +1,8 @@
+code: microservices
+description: microservices
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  plugins:
+    - plugins/pn-343826ca-2f75f095-entandodemo-sd-banking-descriptor.yaml
+    - plugins/pn-3cd5f745-251faff0-entandodemo-sd-customer-descriptor.yaml
